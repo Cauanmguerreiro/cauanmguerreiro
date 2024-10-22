@@ -26,17 +26,10 @@ me acompanhe nas redes socias:
 
 ### Fundação Bradesco - Python | HTML5 | CSS | JS
 
-<div style="display: inline-block;">
-  <img src="377.png" alt="Certificado Fundação Bradesco" style="width: 50px; float: left; margin-right: 10px;">
-</div><br/>
 
 Nos cursos da Fundação Bradesco em Python, HTML5, CSS e JavaScript desenvolvi habilidades essenciais para criação de páginas web e programação. Em HTML5, aprendi a estruturar páginas, trabalhar com formulários, tabelas e conteúdo multimídia. Em CSS, apliquei estilos, criei layouts responsivos e ajustei elementos visuais. No JavaScript, adquiri o conhecimentos para tornar as páginas dinâmicas, manipulando eventos e interações. Já nos cursos em Python, desenvolvi a lógica de programação e a capacidade de automatizar tarefas, trabalhar com dados e desenvolver pequenos projetos.
 
 ### JFo Java foundations
-
-<div style="display: inline-block;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webopedia.com%2Fdefinitions%2Foracle%2F&psig=AOvVaw0IMu-vDkRnl3dyZyYcQGvj&ust=1729646743841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjHjLDqoIkDFQAAAAAdAAAAABAE" alt="Seu Certificado Personalizado" style="width: 50px; float: left; margin-right: 10px;">
-</div><br/>
 
 
 Quando conclui o curso Jfo Java foundations - Oracle, adquiri habilidades essenciais para o desenvolvimento de aplicações e de programação orientada a objetos, compreendendo conceitos como classes e objetos. Também me familiarizo com a sintaxe da linguagem Java.
