@@ -15,9 +15,28 @@ me acompanhe nas redes socias:
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  
 </div><br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=radical)
 
 
+# Certificados
+
+
+### Fundação Bradesco - Python | HTML5 | CSS | JS
+
+<div style="display: inline-block;">
+  <img src="377.png" alt="Certificado Fundação Bradesco" style="width: 50px; float: left; margin-right: 10px;">
+</div><br/>
+
+Nos cursos da Fundação Bradesco em Python, HTML5, CSS e JavaScript desenvolvi habilidades essenciais para criação de páginas web e programação. Em HTML5, aprendi a estruturar páginas, trabalhar com formulários, tabelas e conteúdo multimídia. Em CSS, apliquei estilos, criei layouts responsivos e ajustei elementos visuais. No JavaScript, adquiri o conhecimentos para tornar as páginas dinâmicas, manipulando eventos e interações. Já nos cursos em Python, desenvolvi a lógica de programação e a capacidade de automatizar tarefas, trabalhar com dados e desenvolver pequenos projetos.
+
+### JFo Java foundations
+
+<div style="display: inline-block;">
+  <img src="Webo (1).webp" alt="Seu Certificado Personalizado" style="width: 50px; float: left; margin-right: 10px;">
+</div><br/>
+
+
+Quando conclui o curso Jfo Java foundations - Oracle, adquiri habilidades essenciais para o desenvolvimento de aplicações e de programação orientada a objetos, compreendendo conceitos como classes e objetos. Também me familiarizo com a sintaxe da linguagem Java.
