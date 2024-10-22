@@ -35,7 +35,7 @@ Nos cursos da Fundação Bradesco em Python, HTML5, CSS e JavaScript desenvolvi 
 ### JFo Java foundations
 
 <div style="display: inline-block;">
-  <img src="Webo (1).webp" alt="Seu Certificado Personalizado" style="width: 50px; float: left; margin-right: 10px;">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webopedia.com%2Fdefinitions%2Foracle%2F&psig=AOvVaw0IMu-vDkRnl3dyZyYcQGvj&ust=1729646743841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjHjLDqoIkDFQAAAAAdAAAAABAE" alt="Seu Certificado Personalizado" style="width: 50px; float: left; margin-right: 10px;">
 </div><br/>
 
 
