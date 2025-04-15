@@ -98,6 +98,6 @@ Nos cursos da Fundação Bradesco em Python, HTML5, CSS e JavaScript desenvolvi 
 Quando conclui o curso Jfo Java foundations - Oracle, adquiri habilidades essenciais para o desenvolvimento de aplicações e de programação orientada a objetos, compreendendo conceitos como classes e objetos. Também me familiarizo com a sintaxe da linguagem Java.
 
 ### Cyber Threat Management
-
+ 
 The holder of this student-level credential is familiar with cybersecurity policies and governance to ensure an organization complies with ethics standards and legal and regulatory frameworks. They understand how to do a network vulnerability assessment and create a risk management plan, as well as post-incident response.
 
