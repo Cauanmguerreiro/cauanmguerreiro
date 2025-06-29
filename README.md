@@ -75,6 +75,3 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou colaborações, fique �
 
 ---
 
-<p align="center">
-  Feito com 💙 por <strong>Cauan Guerreiro</strong>
-</p>
