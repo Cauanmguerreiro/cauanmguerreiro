@@ -1,103 +1,80 @@
-## Me chamo Cauan Guerreiro, seja bem vindo
+<h1 align="center">👨‍💻 Cauan Guerreiro</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvimento Web | Python | Django REST | NodeJS | Vue.js</h3>
 
-me acompanhe nas redes socias:
- 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanguerreiro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cauanguerreiro)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/cauanmguerreiro)
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web e aprendizado constante.
+</p>
 
+---
 
-### 🤖 Linguagens e Tecnologias
+## 🌍 Me acompanhe nas redes sociais:
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cauanguerreiro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/cauanguerreiro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/cauanmguerreiro" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🚀 Tecnologias e Ferramentas
 
-### 📊 Estatísticas
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django REST" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+</div>
 
- 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmguerreiro&layout=compact)   
+---
 
-# Certificados
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmguerreiro&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-### Fundação Bradesco - Python | HTML5 | CSS | JS
+---
 
+## 🎓 Certificados
 
-Nos cursos da Fundação Bradesco em Python, HTML5, CSS e JavaScript desenvolvi habilidades essenciais para criação de páginas web e programação. Em HTML5, aprendi a estruturar páginas, trabalhar com formulários, tabelas e conteúdo multimídia. Em CSS, apliquei estilos, criei layouts responsivos e ajustei elementos visuais. No JavaScript, adquiri o conhecimentos para tornar as páginas dinâmicas, manipulando eventos e interações. Já nos cursos em Python, desenvolvi a lógica de programação e a capacidade de automatizar tarefas, trabalhar com dados e desenvolver pequenos projetos.
+### 🏅 Fundação Bradesco – Python | HTML5 | CSS | JS
 
-### JFo Java foundations
+Aprendi a estruturar páginas com **HTML5**, estilizar com **CSS**, adicionar interatividade com **JavaScript** e desenvolver lógica com **Python**. Realizei exercícios práticos, simulando situações reais.
 
+### ☕ Oracle – Java Foundations (JFo)
 
-Quando conclui o curso Jfo Java foundations - Oracle, adquiri habilidades essenciais para o desenvolvimento de aplicações e de programação orientada a objetos, compreendendo conceitos como classes e objetos. Também me familiarizo com a sintaxe da linguagem Java.
+Conceitos fundamentais da **Programação Orientada a Objetos**, estrutura de **classes**, **métodos** e a sintaxe da linguagem **Java**.
 
-### Cyber Threat Management
- 
-The holder of this student-level credential is familiar with cybersecurity policies and governance to ensure an organization complies with ethics standards and legal and regulatory frameworks. They understand how to do a network vulnerability assessment and create a risk management plan, as well as post-incident response.
+### 🛡️ Cisco – Cyber Threat Management
 
+Conhecimento em **políticas de segurança**, **governança de TI**, avaliação de **vulnerabilidades de rede**, elaboração de **planos de risco** e resposta a incidentes.
+
+---
+
+## 📫 Contato
+
+Se quiser trocar uma ideia sobre tecnologia, projetos ou colaborações, fique à vontade para me chamar!
+
+📧 Email: cauandevweb@gmail.com  
+📍 Localização: Porto Alegre - RS
+
+---
+
+<p align="center">
+  Feito com 💙 por <strong>Cauan Guerreiro</strong>
+</p>
