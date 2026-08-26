@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Cauan Guerreiro 👋</h1>
-<h3 align="center">Full Stack Developer • Multimedia Designer • Co-founder & CTO @ CodeBrand</h3>
+<h3 align="center">Assistente de Inovação @ Agafarma • Co-founder & CTO @ CodeBrand • Full Stack Developer</h3>
 
 <p align="center">
-  Construo produtos digitais do design ao deploy — de sistemas de gestão para instituições
-  a SaaS para nichos específicos. Acredito em tecnologia acessível e educação mais humana.
+  Construo produtos digitais do design ao deploy — de sistemas de gestão institucionais e plataformas SaaS
+  a soluções inovadoras de experiência do usuário. Acredito em tecnologia acessível e arquitetura escalável.
 </p>
 
 <p align="center">
@@ -25,28 +25,28 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** na UniRitter
-- 💼 Co-fundador e CTO da **CodeBrand**
-- 🧑‍🏫 Já ensinei programação para jovens através do programa **Jovem Tech**
-- 🛠️ Foco atual: aplicações Vue.js/React de gestão institucional e produtos SaaS
-- 🌱 Explorando integrações com IA em fluxos de produto e design
-- 📍 Rio Grande do Sul, Brasil
+- 🏢 Atuo como **Assistente de Inovação e Desenvolvimento** na **Rede Agafarma**, focado em gestão de projetos e desenvolvimento de novas soluções.
+- 💼 **Co-fundador e CTO** da **CodeBrand**, uma agência e software house dedicada à criação de aplicações web, PWAs, branding e produtos digitais sob medida.
+- 🎓 Cursando **Ciência da Computação** na UniRitter.
+- 🎙️ Compartilho conhecimento sobre tecnologia através do blog/canal **Processando Dados** e como co-host do podcast **Podformatar**.
+- 🧑‍🏫 Experiência prévia em educação e impacto social, ensinando programação no programa **Jovem Tech** e atuando como educador social.
+- 🛠️ Foco atual: Modernização de processos via aplicações Vue.js/React, integrações robustas (Firebase/Supabase) e UI/UX design.
+- 📍 Viamão/Porto Alegre - RS, Brasil.
 
 ---
 
-### 🧰 Stack principal
+### 🧰 Stack principal e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" style="background:white;border-radius:4px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" style="background:white;border-radius:4px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django REST" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40"/>
@@ -56,14 +56,16 @@
 
 ---
 
-### 💡 Alguns projetos
+### 💡 Projetos em Destaque
 
 | Projeto | Descrição |
 |---|---|
-| **CodeBrand** | Estúdio de desenvolvimento e design que co-fundo, focado em produtos digitais sob medida |
-| **Centro POP Viamão** | Sistema de gestão em Vue.js para substituir controles manuais em planilhas de um centro de assistência social (SEAS) |
-| **Nutriva** | SaaS de gestão de pacientes para nutricionistas, com Supabase e arquitetura multi-tenant |
-| **SICAR / UrbanSense / SPHub** | Projetos de portfólio explorando front-end moderno e experiência de usuário |
+| **CodeBrand** | Como CTO, lidero o desenvolvimento de projetos, unindo desenvolvimento ágil e design de interfaces (glassmorphism, layouts estruturados) para escalar negócios. |
+| **S.I.C.A.R.** | Plataforma SaaS construída sob a CodeBrand que centraliza e otimiza simulações de crédito automotor para concessionárias. |
+| **Limatize (PWA)** | Plataforma de gestão desenhada para a digitalização de contratos de crediário, recebíveis e onboarding de clientes. |
+| **P.O.R.T.A.** | *(Plataforma Operacional de Registro e Triagem de Acessos)* - Sistema de gestão em Vue.js para o Centro POP (Viamão), substituindo processos manuais. |
+| **The Dev Ascent** | Plataforma EdTech Gamificada (LXP) voltada para o treinamento interativo em desenvolvimento de software e vendas. |
+| **UrbanSense** | Plataforma de navegação assistiva focada no mapeamento de acessibilidade de calçadas para pessoas com mobilidade reduzida. |
 
 ---
 
@@ -97,5 +99,5 @@ Políticas de segurança, governança de TI, avaliação de vulnerabilidades de 
 ---
 
 <p align="center">
-  📫 <b>cauandevweb@gmail.com</b> · Vamos trocar uma ideia sobre tecnologia, produtos ou colaborações!
+  📫 <b>cauandevweb@gmail.com</b> · Vamos trocar uma ideia sobre tecnologia, inovação, desenvolvimento de produtos ou colaborações!
 </p>
