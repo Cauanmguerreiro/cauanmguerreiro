@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Cauan Guerreiro 👋</h1>
-<h3 align="center">Assistente de Inovação @ Agafarma • Co-founder & CTO @ CodeBrand • Full Stack Developer</h3>
+<h3 align="center">Assistente de Inovação Agafarma • founder & CTO CodeBrand </h3>
 
 <p align="center">
   Construo produtos digitais do design ao deploy — de sistemas de gestão institucionais e plataformas SaaS
