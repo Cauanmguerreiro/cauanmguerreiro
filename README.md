@@ -27,32 +27,26 @@
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Sou desenvolvedor e builder de produtos digitais, com atuação entre
-**software, produto, inovação, automação e experiência do usuário**.
+Sou desenvolvedor e builder de produtos digitais, com atuação entre **software, produto, inovação, automação e experiência do usuário**.
 
-Atualmente trabalho como **Assistente de Inovação na Rede Agafarma**, participando
-da criação e evolução de soluções digitais, melhoria de processos e projetos de inovação.
+Atualmente trabalho como **Assistente de Inovação na Rede Agafarma**, participando da criação e evolução de soluções digitais, melhoria de processos e projetos de inovação.
 
-Também sou **Founder da CodeBrand**, onde desenvolvo produtos SaaS, aplicações web,
-PWAs e soluções digitais voltadas principalmente para problemas reais de operação,
-gestão e relacionamento com clientes.
+Também sou **Founder da CodeBrand**, onde desenvolvo produtos SaaS, aplicações web, PWAs e soluções digitais voltadas principalmente para problemas reais de operação, gestão e relacionamento com clientes.
 
 Minha forma de trabalhar normalmente passa por todo o ciclo:
 
 **Problema → Produto → UX/UI → Arquitetura → Desenvolvimento → Deploy → Evolução**
 
-Tenho especial interesse em transformar processos que hoje dependem de
-planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em
-**software simples, utilizável e sustentável**.
+Tenho especial interesse em transformar processos que hoje dependem de planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em **software simples, utilizável e sustentável**.
 
 🎓 Ciência da Computação — UniRitter  
 📍 Viamão / Porto Alegre — RS, Brasil
 
 ---
 
-## O que estou construindo
+## 💡 O que estou construindo
 
 | Produto | O que é |
 |---|---|
@@ -65,7 +59,7 @@ planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em
 
 ---
 
-## Stack principal
+## 🧰 Stack principal
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="42"/>
@@ -84,6 +78,10 @@ planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="42"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="42"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="42"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="42"/>
@@ -98,7 +96,7 @@ planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em
 
 ---
 
-## Como eu penso produto
+## 🧠 Como eu penso produto
 
 ```text
 Tecnologia não começa no código.
@@ -120,3 +118,67 @@ Uso real
 Aprendizado
    ↓
 Evolução
+```
+
+Meu foco não é apenas construir funcionalidades.
+
+É entender **por que algo precisa existir**, reduzir complexidade e transformar isso em uma experiência que realmente possa ser utilizada.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmguerreiro&layout=compact&theme=transparent&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/cauanmguerreiro?theme=dark">
+    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/cauanmguerreiro">
+  </picture>
+</p>
+
+---
+
+## 🌱 Experiência além do código
+
+Minha trajetória também passa por áreas que influenciam diretamente a forma como desenvolvo produtos.
+
+- 🧑‍🏫 Ensino de programação no **Jovem Tech**
+- 🤝 Experiência como **Educador Social**
+- 💡 Atuação profissional com **inovação e melhoria de processos**
+- 🎨 Interesse por **produto, branding e experiência do usuário**
+- 🚀 Construção e validação de produtos próprios através da **CodeBrand**
+
+Essa combinação me fez enxergar software não apenas como código, mas como uma ferramenta para organizar pessoas, processos e negócios.
+
+---
+
+## 🎓 Certificações
+
+**Oracle — Java Foundations**  
+Fundamentos de Java, programação orientada a objetos, classes e métodos.
+
+**Cisco — Cyber Threat Management**  
+Governança de segurança, avaliação de vulnerabilidades e resposta a incidentes.
+
+**Fundação Bradesco — Desenvolvimento Web e Python**  
+HTML, CSS, JavaScript, lógica de programação e Python.
+
+---
+
+<p align="center">
+  <b>Construindo produtos, experimentando ideias e transformando problemas em software.</b>
+</p>
+
+<p align="center">
+  📫 <a href="mailto:cauandevweb@gmail.com">cauandevweb@gmail.com</a>
+</p>
