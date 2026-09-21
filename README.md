@@ -1,9 +1,16 @@
-<h1 align="center">Olá, eu sou o Cauan Guerreiro 👋</h1>
-<h3 align="center">Assistente de Inovação Agafarma • founder & CTO CodeBrand </h3>
+<h1 align="center">Cauan Guerreiro</h1>
+
+<h3 align="center">
+  Software Developer • Product Builder • Innovation
+</h3>
 
 <p align="center">
-  Construo produtos digitais do design ao deploy — de sistemas de gestão institucionais e plataformas SaaS
-  a soluções inovadoras de experiência do usuário. Acredito em tecnologia acessível e arquitetura escalável.
+  Assistente de Inovação na <b>Rede Agafarma</b> · Founder da <b>CodeBrand</b>
+</p>
+
+<p align="center">
+  Transformo problemas de negócio e operação em produtos digitais.<br/>
+  Da ideia e interface à arquitetura, desenvolvimento e deploy.
 </p>
 
 <p align="center">
@@ -13,91 +20,103 @@
   <a href="https://instagram.com/cauanguerreiro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.twitch.tv/cauanmguerreiro" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-  <a href="mailto:cauandevweb@gmail.com" target="_blank">
+  <a href="mailto:cauandevweb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## Sobre mim
 
-- 🏢 Atuo como **Assistente de Inovação e Desenvolvimento** na **Rede Agafarma**, focado em gestão de projetos e desenvolvimento de novas soluções.
-- 💼 **Co-fundador e CTO** da **CodeBrand**, uma agência e software house dedicada à criação de aplicações web, PWAs, branding e produtos digitais sob medida.
-- 🎓 Cursando **Ciência da Computação** na UniRitter.
-- 🎙️ Compartilho conhecimento sobre tecnologia através do blog/canal **Processando Dados** e como co-host do podcast **Podformatar**.
-- 🧑‍🏫 Experiência prévia em educação e impacto social, ensinando programação no programa **Jovem Tech** e atuando como educador social.
-- 🛠️ Foco atual: Modernização de processos via aplicações Vue.js/React, integrações robustas (Firebase/Supabase) e UI/UX design.
-- 📍 Viamão/Porto Alegre - RS, Brasil.
+Sou desenvolvedor e builder de produtos digitais, com atuação entre
+**software, produto, inovação, automação e experiência do usuário**.
 
----
+Atualmente trabalho como **Assistente de Inovação na Rede Agafarma**, participando
+da criação e evolução de soluções digitais, melhoria de processos e projetos de inovação.
 
-### 🧰 Stack principal e Ferramentas
+Também sou **Founder da CodeBrand**, onde desenvolvo produtos SaaS, aplicações web,
+PWAs e soluções digitais voltadas principalmente para problemas reais de operação,
+gestão e relacionamento com clientes.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" style="background:white;border-radius:4px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
-</p>
+Minha forma de trabalhar normalmente passa por todo o ciclo:
+
+**Problema → Produto → UX/UI → Arquitetura → Desenvolvimento → Deploy → Evolução**
+
+Tenho especial interesse em transformar processos que hoje dependem de
+planilhas, tarefas manuais, WhatsApp ou fluxos pouco estruturados em
+**software simples, utilizável e sustentável**.
+
+🎓 Ciência da Computação — UniRitter  
+📍 Viamão / Porto Alegre — RS, Brasil
 
 ---
 
-### 💡 Projetos em Destaque
+## O que estou construindo
 
-| Projeto | Descrição |
+| Produto | O que é |
 |---|---|
-| **CodeBrand** | Como CTO, lidero o desenvolvimento de projetos, unindo desenvolvimento ágil e design de interfaces (glassmorphism, layouts estruturados) para escalar negócios. |
-| **S.I.C.A.R.** | Plataforma SaaS construída sob a CodeBrand que centraliza e otimiza simulações de crédito automotor para concessionárias. |
-| **Limatize (PWA)** | Plataforma de gestão desenhada para a digitalização de contratos de crediário, recebíveis e onboarding de clientes. |
-| **P.O.R.T.A.** | *(Plataforma Operacional de Registro e Triagem de Acessos)* - Sistema de gestão em Vue.js para o Centro POP (Viamão), substituindo processos manuais. |
-| **The Dev Ascent** | Plataforma EdTech Gamificada (LXP) voltada para o treinamento interativo em desenvolvimento de software e vendas. |
-| **UrbanSense** | Plataforma de navegação assistiva focada no mapeamento de acessibilidade de calçadas para pessoas com mobilidade reduzida. |
+| **CodeBrand** | Estrutura onde desenvolvo produtos digitais, soluções SaaS, aplicações web, automações e projetos de tecnologia para empresas. |
+| **Vinko** | Plataforma voltada à organização de vendas a prazo, clientes, parcelas, recebimentos e operação comercial de pequenas e médias empresas. |
+| **Modyne** | Produto SaaS para estruturar processos, workflows e execução de tarefas dentro de empresas. |
+| **PEDIU** | Plataforma de vitrine e vendas assistidas que conecta descoberta de produtos, variantes, carrinho e fechamento pelo WhatsApp. |
+| **AgaHub** | Plataforma voltada à organização de projetos, planejamento e colaboração dentro do ambiente corporativo da Agafarma. |
+| **Limatize** | Aplicação de gestão de crediário, clientes, contratos, parcelas e recebimentos construída sobre a evolução do ecossistema Vinko. |
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Stack principal
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmguerreiro&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="42"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="42"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/cauanmguerreiro?theme=dark">
-    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/cauanmguerreiro">
-  </picture>
+  Vue.js · TypeScript · JavaScript · React · Firebase · Node.js · Python<br/>
+  Tailwind CSS · Quasar · Git · Figma · PWAs · SaaS · UI/UX
 </p>
 
 ---
 
-### 🎓 Certificações
+## Como eu penso produto
 
-**Fundação Bradesco** — Python, HTML5, CSS & JavaScript
-Estruturação de páginas, estilização, interatividade e lógica de programação com exercícios práticos aplicados.
+```text
+Tecnologia não começa no código.
 
-**Oracle** — Java Foundations (JFo)
-Fundamentos de Programação Orientada a Objetos, classes, métodos e sintaxe Java.
-
-**Cisco** — Cyber Threat Management
-Políticas de segurança, governança de TI, avaliação de vulnerabilidades de rede e resposta a incidentes.
-
----
-
-<p align="center">
-  📫 <b>cauandevweb@gmail.com</b> · Vamos trocar uma ideia sobre tecnologia, inovação, desenvolvimento de produtos ou colaborações!
-</p>
+Problema
+   ↓
+Entendimento do usuário
+   ↓
+Fluxo
+   ↓
+Produto
+   ↓
+Interface
+   ↓
+Código
+   ↓
+Uso real
+   ↓
+Aprendizado
+   ↓
+Evolução
