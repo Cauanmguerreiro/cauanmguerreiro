@@ -126,26 +126,6 @@ Meu foco não é apenas construir funcionalidades.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=cauanmguerreiro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanmguerreiro&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/cauanmguerreiro?theme=dark">
-    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/cauanmguerreiro">
-  </picture>
-</p>
-
 ---
 
 ## 🌱 Experiência além do código
